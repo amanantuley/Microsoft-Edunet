@@ -1,61 +1,78 @@
 
-# 📘 Edunet_Project
+# 🤖 Edunet Project – Sign Language Detection
 
-This repository contains the work I completed during my internship with **Edunet Foundation**, under the **AICTE Virtual Internship Program**. The project focuses on applying Artificial Intelligence and Python programming skills to solve real-world problems.
+This repository contains my work as an intern at **Edunet Foundation**, under the **AICTE Virtual Internship Program**. The goal of this project is to apply **Artificial Intelligence** and **Python** programming to build a real-time **Sign Language Detection System**.
+
+---
 
 ## 🧠 Project Title
 
 **Sign Language Detection using Computer Vision**
 
+---
+
 ## 🎯 Objective
 
-To build an AI-powered application that detects and recognizes basic sign language gestures using a webcam and displays the corresponding text output. The goal is to assist communication for individuals with hearing or speech impairments.
+To develop an AI-powered system that recognizes **basic sign language gestures** in real-time using a webcam and displays the corresponding **translated text** — helping bridge communication gaps for individuals with hearing or speech impairments.
+
+---
 
 ## 🚀 Technologies Used
 
-- **Language**: Python
-- **Libraries**:
-  - OpenCV
-  - MediaPipe
-  - NumPy
+- 🐍 **Language**: Python
+- 📦 **Libraries**:
+  - 🖼️ OpenCV – for image processing
+  - ✋ MediaPipe – for real-time hand tracking
+  - 🔢 NumPy – for array operations
 
-## 🛠 Setup Instructions
+---
 
-1. Clone the repository:
+## 🛠️ Setup Instructions
 
-```bash
-git clone https://github.com/your-username/Edunet_Project.git
-cd Edunet_Project
+1. **Clone the repository**  
+   ```bash
+   git clone https://github.com/your-username/Edunet_Project.git
+   cd Edunet_Project
 ````
 
-2. Install dependencies:
+2. **Install dependencies**
 
-```bash
-pip install opencv-python mediapipe numpy
-```
+   ```bash
+   pip install -r requirements.txt
+   ```
 
-3. Run the application:
+3. **Run the application**
 
-```bash
-python app.py
-```
+   ```bash
+   python app.py
+   ```
+
+---
 
 ## 📸 Features
 
-* Real-time hand tracking using webcam
-* Sign gesture recognition
-* Displays translated text on screen
-* Easy to extend with more gestures
+* ✅ Real-time hand tracking using webcam
+* ✋ Recognizes hand gestures representing signs
+* 📝 Displays translated text output on screen
+* 🔄 Easy to scale for more gesture classes
 
-## 📂 File Structure
+---
+
+## 📂 Folder Structure
 
 ```
 Edunet_Project/
 │
-├── app.py            # Main application script
-├── README.md         # Project documentation
-└── requirements.txt  # (Optional) List of dependencies
+├── Code/                     # Main application and scripts
+├── HandGestureDataset/      # Dataset used for gesture recognition
+│
+├── .gitignore                # Git exclusions
+├── LICENSE                   # Open-source license (MIT)
+├── README.md                 # Project overview
+├── requirements.txt          # Python dependencies
 ```
+
+---
 
 ## 👨‍💻 Developed By
 
@@ -65,11 +82,23 @@ Intern at Edunet Foundation
 🔗 [LinkedIn](https://linkedin.com/in/amanantuley)
 🐦 [Twitter](https://twitter.com/amanantuley)
 
+---
+
 ## 📄 License
 
-This project is open-source and available under the [MIT License](LICENSE).
+This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-> Feel free to fork or contribute to enhance the sign detection logic, UI, or add support for more signs!
+## 🤝 Contributing
+
+Feel free to **fork**, **star**, or submit a **pull request** to improve:
+
+* 🧠 Sign detection logic
+* 🖥️ User interface
+* 🔤 Support for additional gestures
+
+---
+
+> ⭐ If you found this helpful, don't forget to star the repo!
 
