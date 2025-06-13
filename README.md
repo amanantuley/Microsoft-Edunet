@@ -78,9 +78,9 @@ Edunet_Project/
 
 **Aman Antuley**
 Intern at Edunet Foundation
-📧 [amanantuley@gmail.com](mailto:amanantuley@gmail.com)
-🔗 [LinkedIn](https://linkedin.com/in/amanantuley)
-🐦 [Twitter](https://twitter.com/amanantuley)
+📧 [amanantuley@gmail.com](mailto:amanantuley3794@gmail.com)
+🔗 [LinkedIn](https://www.linkedin.com/in/aman-antuley-8974ab26a/)
+🐦 [Twitter](https://x.com/AmanAntuley)
 
 ---
 
